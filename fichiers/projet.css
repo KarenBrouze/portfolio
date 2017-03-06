@@ -80,13 +80,13 @@ a:hover{color:#E31B36;}
 #blocRose2{margin-top:70%;margin-left:15%;}
 #blocRose3{margin-top:125%;margin-left:60%;width:35%;}
 #blocRose4{margin-top:180%;margin-left:15%;}
-.contact{height:70%;}
+.contact{height:100%;}
 .titreContact{font-size:7em;}
 .tel{font-size:5em;margin-top:28px;}
 .mail{font-size:3em;margin-top:0px;}
 .ligneContact:after{height:600px;top:0;}
 .logos{right:44%;}
-.logos ul{margin-bottom:100px;}
+.logos ul{margin-bottom:300px;}
 .logos li{margin-bottom:50px;}
 .logos img{width:100%;}
 .informations{top:30%;}
